@@ -1,4 +1,4 @@
-# Hi there, I'm Avinash 👋
+# Hi there, I'm Avinash Joshi 👋
 
 Welcome to my GitHub! I'm a passionate computer science student with a love for building and exploring new technologies. Whether it's solving tough algorithmic challenges or designing interactive web experiences, I thrive on turning ideas into reality.
 
